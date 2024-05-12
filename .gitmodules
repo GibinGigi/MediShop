@@ -1,0 +1,3 @@
+[submodule "medishop"]
+	path = medishop
+	url = https://github.com/GibinGigi/MediShop

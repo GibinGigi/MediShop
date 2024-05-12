@@ -1,0 +1,36 @@
+.background {
+  background-image: url('./bg-img/MediShop.png'); 
+  background-size: cover; 
+  background-position: center;
+  min-height: 100vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bodyimg {
+  background-image: url('./bg-img/mainpage.jpg'); 
+  background-size: cover;
+background-position: center;
+min-height: 100vh;
+position: relative;
+}
+  
+  
+.heading {
+  color: #8e1fcfd3;
+  font-size: 2rem;
+}
+
+.heading h1 {
+  font-weight: bold;
+}
+
+.btn-primary {
+  font-size: 1.2rem;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  margin-top:380px;
+  align-items: flex-end;
+}
